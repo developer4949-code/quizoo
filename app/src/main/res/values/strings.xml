@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string-array name="spinner_items">
+        <item>user</item>
+        <item>admin</item>
+    </string-array>
+
+</resources>
