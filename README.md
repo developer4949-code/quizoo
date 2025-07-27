@@ -17,9 +17,7 @@ A comprehensive Android quiz application with dual user roles featuring Firebase
 - **UI/UX:** Material Design, Lottie Animations, Custom Views
 - **Build:** Gradle, Android Studio
 
-## 📱 Screenshots
 
-[Add your app screenshots here]
 
 ## 🔧 Installation
 
